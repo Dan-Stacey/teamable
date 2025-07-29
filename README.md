@@ -1,3 +1,11 @@
-# teamable
+# Teamable
 
-This is an application for managing employee profiles (created as part of a bootcamp covering the entire SDLC).
+This is an application for managing employee profiles - project to learn the whole software development lifecycle.
+
+### To run the tests execute
+
+    npm run test
+
+### To package the application execute
+
+    npm pack
